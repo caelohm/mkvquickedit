@@ -1,0 +1,3 @@
+[FORMAT]
+duration=7008.001000
+[/FORMAT]

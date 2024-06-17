@@ -1,0 +1,360 @@
+4.51     212.527887    D:\Videos\TV Series\Mr. Robot\S2\S02E11 eps2 9_pyth0n-pt1 p7z.mkv
+4.51     216.27667    D:\Videos\TV Series\Mr. Robot\S2\S02E12 eps2 9_pyth0n-pt2 p7z.mkv
+4.52     230.469057    D:\Videos\TV Series\Dark\S1\S01e06 Sic Mundus Creatus Est.mkv
+4.53     296.569658    D:\Videos\TV Series\Peaky Blinders\S5\S05E06.mkv
+4.57     298.429814    D:\Videos\TV Series\Mr. Robot\S2\S02E04 eps2 2_init_1 asec.mkv
+4.58     208.257715    D:\Videos\TV Series\Dark\S1\S01e05 Truths.mkv
+4.6     223.441999    D:\Videos\TV Series\Mr. Robot\S2\S02E07 eps2 5_h4ndshake sme.mkv
+4.8     247.218178    D:\Videos\TV Series\Dark\S1\S01e07 Crossroads.mkv
+4.86     219.693054    D:\Videos\TV Series\Mr. Robot\S1\S01E03 d3bug.mkv
+4.87     280.773624    D:\Videos\TV Series\Peaky Blinders\S5\S05E04.mkv
+4.88     218.915057    D:\Videos\TV Series\Mr. Robot\S1\S01E05 3xpl0its.mkv
+4.92     210.478974    D:\Videos\TV Series\Mr. Robot\S2\S02E10 eps2 8_h1dden-pr0cess axx.mkv
+4.96     294.231595    D:\Videos\TV Series\Daredevil\S1\S01E12.mkv
+5.02     291.229008    D:\Videos\TV Series\Peaky Blinders\S5\S05E02.mkv
+5.03     246.746341    D:\Videos\TV Series\Mr. Robot\S2\S02E09 eps2 7_init_5 fve.mkv
+5.07     294.32584    D:\Videos\TV Series\Peaky Blinders\S5\S05E03.mkv
+5.09     297.072246    D:\Videos\TV Series\Daredevil\S1\S01E11.mkv
+5.09     231.825159    D:\Videos\TV Series\Dark\S1\S01e03 Past And Present.mkv
+5.11     228.802105    D:\Videos\TV Series\Dark\S1\S01e02 Lies.mkv
+5.11     291.374493    D:\Videos\TV Series\Dark\S1\S01e10 Alpha And Omega.mkv
+5.12     263.001416    D:\Videos\TV Series\Mr. Robot\S2\S02E05 eps2 3 logic-b0mb hc.mkv
+5.12     452.812627    D:\Videos\TV Series\Sherlock\S4\S04e03.mkv
+5.13     293.415986    D:\Videos\TV Series\Daredevil\S1\S01E09.mkv
+5.15     230.1301    D:\Videos\TV Series\Mr. Robot\S1\S01E06 br4ve trave1er.mkv
+5.19     246.683186    D:\Videos\TV Series\Stranger Things\S2\S02E08 Chapter Eight The Mind Flayer.mkv
+5.25     273.684468    D:\Videos\TV Series\Daredevil\S2\s02e12.mkv
+5.26     310.694364    D:\Videos\TV Series\Peaky Blinders\S2\S02E05.mkv
+5.32     294.405077    D:\Videos\TV Series\Dark\S1\S01e09 Everything Is Now.mkv
+5.34     267.360335    D:\Videos\TV Series\Daredevil\S1\S01E07.mkv
+5.36     299.743803    D:\Videos\TV Series\Peaky Blinders\S5\S05E05.mkv
+5.37     284.241859    D:\Videos\TV Series\Daredevil\S1\S01E08.mkv
+5.38     338.6784    D:\Videos\TV Series\Mr. Robot\S2\S02E03 eps2 1_k3rnel-pan1c ksd.mkv
+5.38     304.438378    D:\Videos\TV Series\Peaky Blinders\S5\S05E01.mkv
+5.4     165.258879    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S01e10 - The Group.mkv
+5.42     321.382538    D:\Videos\TV Series\Peaky Blinders\S2\S02E03.mkv
+5.42     312.452256    D:\Videos\TV Series\Peaky Blinders\S4\S04E04.mkv
+5.43     311.397939    D:\Videos\TV Series\Daredevil\S2\s02e13.mkv
+5.46     306.711925    D:\Videos\TV Series\Daredevil\S1\S01E10.mkv
+5.49     330.304816    D:\Videos\TV Series\Daredevil\S2\s02e04.mkv
+5.49     296.509578    D:\Videos\TV Series\Daredevil\S2\s02e08.mkv
+5.5     164.124505    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e08 - The N Word.mkv
+5.54     305.73871    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E06.mkv
+5.55     314.699767    D:\Videos\TV Series\Dark\S3\S03E03 - Adam And Eva.mkv
+5.58     313.446164    D:\Videos\TV Series\Daredevil\S1\S01E13.mkv
+5.58     273.846711    D:\Videos\TV Series\Mr. Robot\S1\S01E09 m1rr0r1n.mkv
+5.61     309.498788    D:\Videos\TV Series\Peaky Blinders\S3\S03E04.mkv
+5.62     191.009628    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S05e08 - The Ski Lift.mkv
+5.63     327.171927    D:\Videos\TV Series\Peaky Blinders\S4\S04E02.mkv
+5.63     333.619172    D:\Videos\TV Series\Peaky Blinders\S4\S04E03.mkv
+5.64     265.962954    D:\Videos\TV Series\Mr. Robot\S1\S01E02 ones and zer0es.mkv
+5.67     269.082347    D:\Videos\TV Series\Dark\S1\S01e04 Double Lives.mkv
+5.67     285.667102    D:\Videos\TV Series\Dark\S1\S01e08 As You Sow So You Shall Reap.mkv
+5.69     263.792525    D:\Videos\TV Series\Mr. Robot\S2\S02E08 eps2 6 succ3ss0r p12.mkv
+5.74     169.25546    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S02e07 - The Doll.mkv
+5.76     235.940536    D:\Videos\TV Series\Mr. Robot\S2\S02E01 eps2 0_unm4sk-pt1 tc.mkv
+5.76     336.100631    D:\Videos\TV Series\Peaky Blinders\S2\S02E02.mkv
+5.76     338.989685    D:\Videos\TV Series\Peaky Blinders\S3\S03E03.mkv
+5.77     333.702124    D:\Videos\TV Series\Peaky Blinders\S4\S04E05.mkv
+5.78     514.599085    D:\Videos\TV Series\Sherlock\S4\S04e02.mkv
+5.8     318.012521    D:\Videos\TV Series\Daredevil\S2\s02e11.mkv
+5.82     342.838672    D:\Videos\TV Series\Peaky Blinders\S2\S02E01.mkv
+5.82     335.125047    D:\Videos\TV Series\Peaky Blinders\S4\S04E06.mkv
+5.82     287.036481    D:\Videos\TV Series\Stranger Things\S1\S01E04 Chapter Four The Body.mkv
+5.83     262.182742    D:\Videos\TV Series\Mr. Robot\S1\S01E07 v1ew s0urce.mkv
+5.84     323.747749    D:\Videos\TV Series\Daredevil\S2\s02e06.mkv
+5.85     423.761614    D:\Videos\TV Series\Chernobyl\Chernobyl S01E05.mkv
+5.86     247.176392    D:\Videos\TV Series\Mr. Robot\S2\S02E02 eps2 0_unm4sk-pt2 tc.mkv
+5.9     327.098999    D:\Videos\TV Series\Daredevil\S2\s02e05.mkv
+5.9     346.121755    D:\Videos\TV Series\Peaky Blinders\S2\S02E04.mkv
+5.91     338.378775    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E05.mkv
+5.92     344.230298    D:\Videos\TV Series\Peaky Blinders\S3\S03E06.mkv
+5.93     321.979738    D:\Videos\TV Series\Stranger Things\S1\S01E02 Chapter Two The Weirdo On Maple Street.mkv
+5.95     268.710165    D:\Videos\TV Series\Mr. Robot\S1\S01E04 da3m0ns.mkv
+5.95     377.736701    D:\Videos\TV Series\Chernobyl\Chernobyl S01E03.mkv
+5.97     334.437844    D:\Videos\TV Series\Daredevil\S2\s02e07.mkv
+5.98     177.014583    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S01e08 - Beloved Aunt.mkv
+5.99     359.259026    D:\Videos\TV Series\Dark\S3\S03E02 - The Survivors.mkv
+5.99     212.01374    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S06e10 - The Bat Mitzvah.mkv
+6.0     351.163083    D:\Videos\TV Series\Dark\S3\S03E06 - Light And Shadow.mkv
+6.06     343.968853    D:\Videos\TV Series\Peaky Blinders\S3\S03E05.mkv
+6.07     290.664652    D:\Videos\TV Series\Daredevil\S2\s02e03.mkv
+6.1     314.162828    D:\Videos\TV Series\Dark\S1\S01e01 Secrets.mkv
+6.11     328.296984    D:\Videos\TV Series\Stranger Things\S1\S01E08 Chapter Eight The Upside Down.mkv
+6.12     354.504318    D:\Videos\TV Series\Peaky Blinders\S4\S04E01.mkv
+6.12     175.898899    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e05 - The Freak Book.mkv
+6.14     345.41693    D:\Videos\TV Series\Mr. Robot\S4\S04E07 407 Proxy Authentication Required.mkv
+6.17     279.310066    D:\Videos\TV Series\Stranger Things\S2\S02E07 Chapter Seven The Lost Sister.mkv
+6.18     360.088396    D:\Videos\TV Series\Peaky Blinders\S3\S03E02.mkv
+6.19     366.447926    D:\Videos\TV Series\Daredevil\S2\s02e09.mkv
+6.19     382.692355    D:\Videos\TV Series\Stranger Things\S2\S02E09 Chapter Nine The Gate.mkv
+6.21     385.872617    D:\Videos\TV Series\Dark\S3\S03E01 - Deja-vu.mkv
+6.23     401.165783    D:\Videos\TV Series\Dark\S3\S03E04 - The Origin.mkv
+6.23     281.215859    D:\Videos\TV Series\Mr. Robot\S1\S01E08 wh1ter0se.mkv
+6.23     410.037551    D:\Videos\TV Series\Chernobyl\Chernobyl S01E02.mkv
+6.28     327.908348    D:\Videos\TV Series\Daredevil\S1\s01e04.mkv
+6.28     362.785472    D:\Videos\TV Series\Stranger Things\S2\S02E05 Chapter Five Dig Dug.mkv
+6.28     378.135735    D:\Videos\TV Series\Chernobyl\Chernobyl S01E01.mkv
+6.3     330.839022    D:\Videos\TV Series\Daredevil\S1\s01e02.mkv
+6.31     327.41922    D:\Videos\TV Series\Daredevil\S2\s02e10.mkv
+6.31     373.000929    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E04.mkv
+6.39     380.200754    D:\Videos\TV Series\Peaky Blinders\S2\S02E06.mkv
+6.43     567.9074    D:\Videos\TV Series\Sherlock\S4\S04e01.mkv
+6.43     189.306256    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S03e08 - Krazee-Eyez Killa.mkv
+6.49     194.901879    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e09 - The Therapists.mkv
+6.51     195.577867    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S02e03 - Trick Or Treat.mkv
+6.52     325.455769    D:\Videos\TV Series\Mr. Robot\S2\S02E06 eps2 4 m4ster-s1ave aes.mkv
+6.54     383.660981    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S04e10 - Opening Night.mkv
+6.55     197.15547    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S04e07 - The Surrogate.mkv
+6.55     195.575692    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e06 - The Rat Dog.mkv
+6.56     364.618304    D:\Videos\TV Series\Daredevil\S1\s01e05.mkv
+6.58     386.881204    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E02.mkv
+6.61     385.836648    D:\Videos\TV Series\Dark\S2\S02e07 - The White Devil.mkv
+6.62     314.347312    D:\Videos\TV Series\Stranger Things\S1\S01E01 Chapter One The Vanishing Of Will Byers.mkv
+6.64     430.460974    D:\Videos\TV Series\Mr. Robot\S1\S01E01 hellofriend.mkv
+6.66     379.623632    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E01.mkv
+6.67     338.529076    D:\Videos\TV Series\Stranger Things\S1\S01E03 Chapter Three Holly Jolly.mkv
+6.7     373.395008    D:\Videos\TV Series\Peaky Blinders\S3\S03E01.mkv
+6.7     347.918603    D:\Videos\TV Series\Stranger Things\S1\S01E05 Chapter Five The Flea And The Acrobat.mkv
+6.71     333.604979    D:\Videos\TV Series\Stranger Things\S3\S03E03.mkv
+6.71     200.9722    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e02 - The Anonymous Donor.mkv
+6.79     326.52837    D:\Videos\TV Series\Daredevil\S2\s02e01.mkv
+6.81     473.157285    D:\Videos\TV Series\Dark\S3\S03E07 - Between The Time.mkv
+6.81     200.978328    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S03e10 - The Grand Opening.mkv
+6.82     455.476868    D:\Videos\TV Series\Chernobyl\Chernobyl S01E04.mkv
+6.85     204.246785    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S02e08 - Shaq.mkv
+6.87     353.910283    D:\Videos\TV Series\Stranger Things\S2\S02E06 Chapter Six The Spy.mkv
+6.88     342.472396    D:\Videos\TV Series\Daredevil\S3\S03e11 Reunion.mkv
+6.89     348.988661    D:\Videos\TV Series\Stranger Things\S2\S02E03 Chapter Three The Pollywog.mkv
+6.92     208.162472    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S04e09 - The Survivor.mkv
+6.93     375.136555    D:\Videos\TV Series\Mr. Robot\S1\S01E10 zer0 daY.mkv
+6.94     438.205247    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E03.mkv
+6.98     346.261354    D:\Videos\TV Series\Daredevil\S2\s02e02.mkv
+7.03     703.456554    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E07.mkv
+7.04     288.530148    D:\Videos\TV Series\Stranger Things\S1\S01E07 Chapter Seven The Bathtub.mkv
+7.06     392.910596    D:\Videos\TV Series\Stranger Things\S2\S02E02 Chapter Two Trick or Treat Freak.mkv
+7.06     515.631849    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E06.mkv
+7.09     341.391827    D:\Videos\TV Series\Daredevil\S1\s01e06.mkv
+7.13     531.664378    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E05.mkv
+7.14     370.534173    D:\Videos\TV Series\Daredevil\S1\s01e03.mkv
+7.17     377.951548    D:\Videos\TV Series\Stranger Things\S3\S03E04.mkv
+7.17     214.391745    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S06e03 - The Ida Funkhouser Roadside Memorial.mkv
+7.3     335.694476    D:\Videos\TV Series\Stranger Things\S2\S02E04 Chapter Four Will the Wise.mkv
+7.38     372.353358    D:\Videos\TV Series\Daredevil\S3\S03e08 Upstairsdownstairs.mkv
+7.4     473.890808    D:\Videos\TV Series\Dark\S3\S03E05 - Life And Death.mkv
+7.41     366.455314    D:\Videos\TV Series\Daredevil\S3\S03e05 The Perfect Game.mkv
+7.48     224.425443    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S04e06 - The Car Pool Lane.mkv
+7.53     398.099839    D:\Videos\TV Series\Daredevil\S1\s01e01.mkv
+7.58     595.68617    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E04.mkv
+7.6     427.583515    D:\Videos\TV Series\Peaky Blinders\S1\Peaky Blinders S01E03.mkv
+7.63     429.597745    D:\Videos\TV Series\Dark\S2\S02e03 - Ghosts.mkv
+7.67     415.918402    D:\Videos\TV Series\Daredevil\S3\S03e06 The Devil You Know.mkv
+7.73     417.506378    D:\Videos\TV Series\Daredevil\S3\S03e09 Revelations.mkv
+7.76     386.53907    D:\Videos\TV Series\Daredevil\S3\S03e07 Aftermath.mkv
+7.81     1111.238535    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E09.mkv
+7.82     431.910907    D:\Videos\TV Series\Daredevil\S3\S03e12 One Last Shot.mkv
+7.83     374.449359    D:\Videos\TV Series\Stranger Things\S2\S02E01 Chapter One MADMAX.mkv
+7.97     614.180936    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E02.mkv
+8.06     693.039443    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E08.mkv
+8.13     434.154346    D:\Videos\TV Series\Daredevil\S3\S03e01 Resurrection.mkv
+8.13     371.559587    D:\Videos\TV Series\Stranger Things\S1\S01E06 Chapter Six The Monster.mkv
+8.14     403.264017    D:\Videos\TV Series\Daredevil\S3\S03e03 No Good Deed.mkv
+8.14     376.037734    D:\Videos\TV Series\Daredevil\S3\S03e10 Karen.mkv
+8.2     734.828835    D:\Videos\TV Series\Sherlock\S2\S02E01.mkv
+8.23     734.896576    D:\Videos\TV Series\Sherlock\S1\S01E03.mkv
+8.24     501.193251    D:\Videos\TV Series\Dark\S2\S02e04 - The Travelers.mkv
+8.24     734.657567    D:\Videos\TV Series\Sherlock\S3\S03E03.mkv
+8.28     430.569469    D:\Videos\TV Series\Stranger Things\S3\S03E05.mkv
+8.31     734.691227    D:\Videos\TV Series\Sherlock\S1\S01E02.mkv
+8.31     734.362142    D:\Videos\TV Series\Sherlock\S2\S02E02.mkv
+8.31     734.98612    D:\Videos\TV Series\Sherlock\S2\S02E03.mkv
+8.31     416.770127    D:\Videos\TV Series\Stranger Things\S3\S03E02.mkv
+8.34     734.57532    D:\Videos\TV Series\Sherlock\S1\S01E01.mkv
+8.34     567.266908    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E10 The Winds of Winter.mkv
+8.35     485.415721    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e01.mkv
+8.35     402.646087    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e05.mkv
+8.35     401.675833    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e06.mkv
+8.35     394.729665    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep1.mkv
+8.35     395.797798    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep10.mkv
+8.35     395.688882    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep11.mkv
+8.35     395.969839    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep12.mkv
+8.35     392.503779    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep3.mkv
+8.35     396.006039    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep4.mkv
+8.35     395.732826    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep6.mkv
+8.35     395.56076    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep7.mkv
+8.35     395.676846    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep9.mkv
+8.35     394.554628    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e10.mkv
+8.35     386.24066    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e03.mkv
+8.35     394.440166    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e06.mkv
+8.35     359.008006    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e01.mkv
+8.35     394.486702    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e02.mkv
+8.35     395.115688    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e03.mkv
+8.35     396.404646    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e04.mkv
+8.35     395.791738    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e09.mkv
+8.35     394.595357    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e14.mkv
+8.35     461.502946    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e16.mkv
+8.36     402.853404    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e02.mkv
+8.36     402.727659    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e03.mkv
+8.36     403.257747    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e04.mkv
+8.36     398.725817    D:\Videos\TV Series\Breaking Bad\S1\Breaking Bad s01e07.mkv
+8.36     397.637152    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep13.mkv
+8.36     400.767716    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep2.mkv
+8.36     395.752929    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep5.mkv
+8.36     395.747496    D:\Videos\TV Series\Breaking Bad\S2\Breaking Bad s02ep8.mkv
+8.36     394.603994    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e01.mkv
+8.36     394.529235    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e02.mkv
+8.36     394.645615    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e03.mkv
+8.36     394.662676    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e04.mkv
+8.36     394.613802    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e05.mkv
+8.36     394.659546    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e06.mkv
+8.36     394.7367    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e07.mkv
+8.36     394.755516    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e08.mkv
+8.36     394.531643    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e09.mkv
+8.36     394.667051    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e11.mkv
+8.36     394.520617    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e12.mkv
+8.36     394.770099    D:\Videos\TV Series\Breaking Bad\S3\breaking bad s03e13.mkv
+8.36     394.373026    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e01.mkv
+8.36     384.258044    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e02.mkv
+8.36     377.971298    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e04.mkv
+8.36     394.506908    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e05.mkv
+8.36     394.544114    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e07.mkv
+8.36     394.597748    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e08.mkv
+8.36     394.527208    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e09.mkv
+8.36     394.598211    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e10.mkv
+8.36     392.425004    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e11.mkv
+8.36     384.176812    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e12.mkv
+8.36     421.547044    D:\Videos\TV Series\Breaking Bad\S4\breaking bad s04e13.mkv
+8.36     401.726222    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e05.mkv
+8.36     396.329136    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e06.mkv
+8.36     395.401682    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e07.mkv
+8.36     395.806928    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e08.mkv
+8.36     396.015822    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e10.mkv
+8.36     396.086786    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e11.mkv
+8.36     394.965493    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e12.mkv
+8.36     386.366701    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e13.mkv
+8.36     446.558876    D:\Videos\TV Series\Breaking Bad\S5\breaking bad s05e15.mkv
+8.37     436.821054    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E03 Oathbreaker.mkv
+8.49     663.227119    D:\Videos\TV Series\Stranger Things\S4\Stranger Things S04E01.mkv
+8.5     734.691336    D:\Videos\TV Series\Sherlock\S3\S03E01.mkv
+8.53     444.400448    D:\Videos\TV Series\Mr. Robot\S4\S04E11 eXit.mkv
+8.53     734.761523    D:\Videos\TV Series\Sherlock\S3\S03E02.mkv
+8.56     485.453542    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E05 Kill The Boy.mkv
+8.57     460.111911    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E02 Home.mkv
+8.66     501.137596    D:\Videos\TV Series\Dark\S2\S02e08 - Endings And Beginnings.mkv
+8.67     673.425082    D:\Videos\TV Series\Stranger Things\S3\S03E08.mkv
+8.68     489.404277    D:\Videos\TV Series\Dark\S2\S02e05 - Lost And Found.mkv
+8.71     519.594146    D:\Videos\TV Series\Stranger Things\S3\S03E06.mkv
+8.78     477.833172    D:\Videos\TV Series\Daredevil\S3\S03e04 Blindsided.mkv
+8.84     438.80739    D:\Videos\TV Series\Daredevil\S3\S03e02 Please.mkv
+8.89     479.444806    D:\Videos\TV Series\Dark\S2\S02e01 - Beginnings And Endings.mkv
+8.9     469.494694    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E03 What Is Dead May Never Die.mkv
+8.9     451.046664    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E06 The Laws of Gods and Men.mkv
+8.99     484.881937    D:\Videos\TV Series\Daredevil\S3\S03e13 A New Napkin.mkv
+9.01     455.716508    D:\Videos\TV Series\Stranger Things\S3\S03E01.mkv
+9.08     569.51744    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E10 Mhysa.mkv
+9.08     516.618169    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E03 Breaker of Chains.mkv
+9.08     533.035189    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E04 Book of the Stranger.mkv
+9.1     512.971181    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E08 Second Sons.mkv
+9.13     547.363581    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E03 High Sparrow.mkv
+9.16     529.116907    D:\Videos\TV Series\Mr. Robot\S3\S03E10.mkv
+9.19     431.735075    D:\Videos\TV Series\Mr. Robot\S4\S04E06 406 Not Acceptable.mkv
+9.22     470.876545    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E07 Mockingbird.mkv
+9.23     469.084708    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E09 The Rains of Castamere.mkv
+9.29     416.711574    D:\Videos\TV Series\Mr. Robot\S4\S04E08 408 Request Timeout.mkv
+9.3     511.409799    D:\Videos\TV Series\Dark\S2\S02e02 - Dark Matter.mkv
+9.38     489.763644    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E01 The Wars To Come.mkv
+9.43     519.641454    D:\Videos\TV Series\Stranger Things\S3\S03E07.mkv
+9.49     466.589574    D:\Videos\TV Series\Mr. Robot\S4\S04E04 404 Not Found.mkv
+9.5     524.332254    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E07 A Man Without Honor.mkv
+9.53     487.708681    D:\Videos\TV Series\Mr. Robot\S4\S04E13 Series Finale Part 2.mkv
+9.53     509.899509    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E02 The Night Lands.mkv
+9.53     519.057882    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E09 Blackwater.mkv
+9.54     502.560965    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E01 The North Remembers.mkv
+9.66     428.403107    D:\Videos\TV Series\Mr. Robot\S4\S04E12 Series Finale Part 1.mkv
+9.67     490.225554    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E04 Garden of Bones.mkv
+9.67     506.771645    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E08 The Mountain and the Viper.mkv
+9.68     520.496732    D:\Videos\TV Series\Mr. Robot\S3\S03E01.mkv
+9.7     565.741801    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E08 No One.mkv
+9.71     457.131042    D:\Videos\TV Series\Mr. Robot\S4\S04E09 409 Conflict.mkv
+9.73     458.958347    D:\Videos\TV Series\Mr. Robot\S4\S04E03 403 Forbidden.mkv
+9.77     465.114348    D:\Videos\TV Series\Mr. Robot\S4\S04E02 402 Payment Required.mkv
+9.81     563.224718    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E05 Kissed by Fire.mkv
+9.86     537.573512    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E01 Valar Dohaeris.mkv
+9.88     581.831954    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E07 The Gift.mkv
+9.9     628.30736    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E10 Valar Morghulis.mkv
+9.91     545.682815    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E04 Oathkeeper.mkv
+9.91     527.464013    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E05 First of His Name.mkv
+9.91     510.151427    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E06 Blood of My Blood.mkv
+9.94     530.087464    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E08 The Prince of Winterfell.mkv
+10.09     538.53334    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E06 The Climb.mkv
+10.2     592.853832    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E02 Stormborn.mkv
+10.22     667.416093    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E10 The Children.mkv
+10.24     546.690538    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E04 And Now His Watch Is Ended.mkv
+10.26     559.696231    D:\Videos\TV Series\Dark\S2\S02e06 - An Endless Cycle.mkv
+10.27     551.529279    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E06 Unbowed Unbent Unbroken.mkv
+10.31     594.25541    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E07 The Bear and the Maiden Fair.mkv
+10.34     520.307791    D:\Videos\TV Series\Mr. Robot\S3\S03E03.mkv
+10.39     548.74313    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E03 Walk of Punishment.mkv
+10.46     630.213394    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E10 Mother's Mercy.mkv
+10.5     568.741562    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E05 The Ghost of Harrenhal.mkv
+10.5     596.541435    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E05 The Door.mkv
+10.51     393.557012    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S10e01 - Happy New Year.mkv
+10.6     429.839424    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S10e10 - The Spite Store.mkv
+10.61     622.289478    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E01 Dragonstone.mkv
+10.61     385.330027    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S10e07 - The Ugly Section.mkv
+10.68     442.512622    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S11e08 - What Have I Done.mkv
+10.69     519.699501    D:\Videos\TV Series\Mr. Robot\S3\S03E09.mkv
+10.69     405.861006    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S09e01 - Foisted! (1080P A.mkv
+10.7     563.271377    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E10 Fire and Blood.mkv
+10.77     581.486342    D:\Videos\TV Series\Game of Thrones\S2\GoT - S02E06 The Old Gods And The New.mkv
+10.77     630.274147    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E05 Eastwatch.mkv
+10.77     331.919066    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S07e03 - The Reunion (1080P A.mkv
+10.78     657.622864    D:\Videos\TV Series\Mr. Robot\S4\S04E01 401 Unauthorized.mkv
+10.82     675.049308    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E03 The Queens Justice.mkv
+10.83     324.510057    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S08e06 - The Hero (1080P A.mkv
+10.85     321.335598    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S07e02 - Vehicular Fellatio (1080P A.mkv
+10.86     318.559043    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S08e05 - Vow Of Silence (1080P A.mkv
+10.9     324.681195    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S08e10 - Larry Vs. Michael J. Fox (1080P A.mkv
+10.92     520.112111    D:\Videos\TV Series\Mr. Robot\S3\S03E02.mkv
+10.93     453.734193    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S07e10 - Seinfeld (1080P A.mkv
+10.94     873.274259    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E07 The Dragon And The Wolf.mkv
+10.95     418.773933    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S09e06 - The Accidental Text On Purpose (1080P A.mkv
+10.96     609.255575    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E02 The House Of Black And White.mkv
+11.02     427.465991    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S10e08 - Elizabeth, Margaret And Larry.mkv
+11.03     642.354331    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E01 Two Swords.mkv
+11.03     557.681827    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E09 The Watchers on the Wall.mkv
+11.04     519.990948    D:\Videos\TV Series\Mr. Robot\S3\S03E07.mkv
+11.06     519.640398    D:\Videos\TV Series\Mr. Robot\S3\S03E08.mkv
+11.09     520.143179    D:\Videos\TV Series\Mr. Robot\S3\S03E04.mkv
+11.14     561.765648    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E04 Sons Of The Harpy.mkv
+11.21     564.584069    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E07 The Broken Man.mkv
+11.24     591.582281    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E06 A Golden Crown.mkv
+11.37     632.328749    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E04 Cripples, Bastards, and Broken Things.mkv
+11.46     688.39777    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E08 Hardhome.mkv
+11.47     523.348395    D:\Videos\TV Series\Mr. Robot\S3\S03E06.mkv
+11.49     663.986183    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E07 You Win or You Die.mkv
+11.57     519.876502    D:\Videos\TV Series\Mr. Robot\S3\S03E05.mkv
+11.57     662.111418    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E03 Lord Snow.mkv
+11.6     347.826724    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S08e03 - Palestinian Chicken (1080P A.mkv
+11.62     654.054117    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E09 Baelor.mkv
+11.64     527.090421    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S10e04 - You're Not Going To Get Me To Say Anything Bad About Mickey.mkv
+11.65     665.18618    D:\Videos\TV Series\Game of Thrones\S3\GoT - S03E02 Dark Wings, Dark Words.mkv
+11.66     677.596746    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E08 The Pointy End.mkv
+11.75     637.644111    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E05 The Wolf and the Lion.mkv
+11.77     463.092743    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S11e04 - The Watermelon.mkv
+11.81     700.278026    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E09 Battle of the Bastards.mkv
+11.91     596.583679    D:\Videos\TV Series\Game of Thrones\S6\GoT - S06E01 The Red Woman.mkv
+11.99     585.37535    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S09e10 - Fatwa! (1080P A.mkv
+12.07     361.435609    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S07e07 - The Black Swan (1080P A.mkv
+12.1     432.998509    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S07e09 - The Table Read (1080P A.mkv
+12.32     759.073408    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E01 Winter Is Coming.mkv
+12.33     681.56585    D:\Videos\TV Series\Game of Thrones\S1\GoT - S01E02 The Kingsroad.mkv
+12.4     561.385498    D:\Videos\TV Series\Mr. Robot\S4\S04E10 410 Gone.mkv
+12.52     359.216172    D:\Videos\TV Series\Curb Your Enthusiasm\9_0\Curb Your Enthusiasm - S07e05 - Denise Handicap (1080P A.mkv
+12.68     666.613333    D:\Videos\TV Series\Game of Thrones\S4\GoT - S04E02 The Lion and The Rose.mkv
+12.97     948.01444    D:\Videos\TV Series\Dark\S3\S03E08 - The Paradise.mkv
+13.05     642.552551    D:\Videos\TV Series\Mr. Robot\S4\S04E05 405 Method Not Allowed.mkv
+13.48     705.874279    D:\Videos\TV Series\Game of Thrones\S5\GoT - S05E09 The Dance Of Dragons.mkv
+14.01     692.179094    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E04 The Spoils Of War.mkv
+14.22     465.229925    D:\Videos\TV Series\Curb Your Enthusiasm\8_5\Curb Your Enthusiasm - S08e09 - Mister Softee (1080P A.mkv
+14.49     1015.19621    D:\Videos\TV Series\Game of Thrones\S7\GoT - S07E06 Beyond The Wall.mkv

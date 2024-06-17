@@ -1,0 +1,239 @@
+3.96     627.151486    D:\Videos\Movies - Live Action\Drama\Period Drama\There Will Be Blood.mkv
+4.22     413.90939    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Fargo.mkv
+4.45     733.901213    D:\Videos\Movies - Live Action\Crime\Gangster Film\Scarface.mkv
+4.56     628.419633    D:\Videos\Movies - Live Action\Film Noir\Neo-Noir\L.A. Confidential.mkv
+4.59     471.551653    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Snatch.mkv
+4.6     836.400549    D:\Videos\Movies - Live Action\Drama\Melodrama\Magnolia.mkv
+4.67     1070.960614    D:\Videos\Movies - Live Action\Crime\Gangster Film\Once Upon A Time In America.mkv
+4.74     797.806383    D:\Videos\Movies - Live Action\Thriller\Erotic Thriller\The Handmaiden.mkv
+4.76     628.975019    D:\Videos\Movies - Live Action\Thriller\Psychological Thriller\Shutter Island.mkv
+5.03     731.806332    D:\Videos\Movies - Live Action\Crime\Gangster Film\Goodfellas.mkv
+5.08     786.765942    D:\Videos\Movies - Live Action\Crime\Pulp Fiction.mkv
+5.16     792.194287    D:\Videos\Movies - Live Action\Action\Terminator 2 Judgement Day.mkv
+5.22     790.697513    D:\Videos\Movies - Live Action\Crime\Gangster Film\The Departed.mkv
+5.37     869.201959    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Stalker.mkv
+5.41     736.849865    D:\Videos\Movies - Live Action\Action\The Matrix.mkv
+5.44     681.795242    D:\Videos\Movies - Live Action\Satire\Charlie Chaplin The Great Dictator.mkv
+5.45     577.791371    D:\Videos\Movies - Live Action\Satire\The Truman Show.mkv
+5.46     590.782109    D:\Videos\Movies - Live Action\Thriller\Psychological Thriller\Black Swan.mkv
+5.58     666.397359    D:\Videos\Movies - Live Action\Drama\Citizen Kane.mkv
+5.73     838.911271    D:\Videos\Movies - Live Action\Mystery\Mulholland Dr..mkv
+5.75     729.81003    D:\Videos\Movies - Live Action\Crime\Se7en.mkv
+5.76     682.508708    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Fear And Loathing In Las Vegas.mkv
+5.78     574.408861    D:\Videos\Movies - Live Action\Theme\Zombie\Shaun of the Dead.mkv
+5.83     681.736001    D:\Videos\Movies - Live Action\Comedy\The Big Lebowski.mkv
+5.92     732.020006    D:\Videos\Movies - Live Action\Drama\Biopic\The Elephant Man.mkv
+6.0     893.504916    D:\Videos\Movies - Live Action\Sci-Fi\2001 A Space Odyssey.mkv
+6.04     787.462146    D:\Videos\Movies - Live Action\Mystery\Chinatown.mkv
+6.05     525.253378    D:\Videos\Movies - Live Action\Comedy\Slapstick\Charlie Chaplin Modern Times.mp4
+6.07     732.17698    D:\Videos\Movies - Live Action\Drama\Slumdog Millionaire.mkv
+6.07     937.86661    D:\Videos\Movies - Live Action\Sci-Fi\Aliens Special Edition.mkv
+6.08     787.966639    D:\Videos\Movies - Live Action\Theme\Dystopian\12 Monkeys.mkv
+6.08     1023.825973    D:\Videos\Movies - Live Action\War\Saving Private Ryan.mkv
+6.14     1024.478974    D:\Videos\Movies - Live Action\Sci-Fi\Solaris.mkv
+6.16     631.4001    D:\Videos\Movies - Live Action\Romance\Casablanca.mkv
+6.2     838.454495    D:\Videos\Movies - Live Action\Drama\Biopic\A Beautiful Mind.mkv
+6.23     784.927913    D:\Videos\Movies - Live Action\Theme\Superhero\Iron Man.mkv
+6.24     888.98662    D:\Videos\Movies - Live Action\Theme\Prison Film\The Shawshank Redemption.mkv
+6.25     735.27418    D:\Videos\Movies - Live Action\Sci-Fi\Cyberpunk\Blade Runner Final Cut.mkv
+6.26     680.744784    D:\Videos\Movies - Live Action\Horror\Body Horror\The Thing.mkv
+6.26     792.26307    D:\Videos\Movies - Live Action\Sci-Fi\Jurassic Park.mkv
+6.27     891.396316    D:\Videos\Movies - Live Action\Drama\Forrest Gump.mkv
+6.28     890.170059    D:\Videos\Movies - Live Action\Crime\Sin City EXTENDED UNRATED.mkv
+6.31     732.56389    D:\Videos\Movies - Live Action\Comedy\Back to the Future.mkv
+6.33     941.41486    D:\Videos\Movies - Live Action\War\The Pianist.mkv
+6.36     1028.455472    D:\Videos\Movies - Anime\Suzumiya Haruhi No Shoushitsu.mp4
+6.36     682.288918    D:\Videos\Movies - Live Action\Action\Terminator.mkv
+6.38     839.73702    D:\Videos\Movies - Live Action\Theme\Superhero\X-Men First Class.mkv
+6.39     682.358639    D:\Videos\Movies - Live Action\Comedy\Black Comedy\In Bruges.mkv
+6.44     751.538247    D:\Videos\Movies - Live Action\Comedy\Romantic Comedy\Amelie.mkv
+6.45     522.62075    D:\Videos\Movies - Animation\Ice Age.mkv
+6.47     733.521818    D:\Videos\Movies - Live Action\Mystery\Memento.mkv
+6.53     1178.904783    D:\Videos\Movies - Live Action\Drama\Biopic\Amadeus.mkv
+6.53     1038.585448    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Eyes Wide Shut.mkv
+6.53     891.461698    D:\Videos\Movies - Live Action\Theme\Dystopian\A Clockwork Orange.mkv
+6.53     994.417353    D:\Videos\Movies - Live Action\Theme\Superhero\The Dark Knight.mkv
+6.54     577.578055    D:\Videos\Movies - Live Action\War\Paths of Glory.mkv
+6.61     838.429266    D:\Videos\Movies - Live Action\Adventure\Indiana Jones And The Last Crusade.mkv
+6.61     1179.133599    D:\Videos\Movies - Live Action\Crime\Gangster Film\Casino.mkv
+6.64     629.643019    D:\Videos\Movies - Live Action\Satire\Dr. Strangelove.mkv
+6.64     787.161019    D:\Videos\Movies - Live Action\Thriller\Psychological Thriller\The Silence Of The Lambs.mkv
+6.75     787.254921    D:\Videos\Movies - Live Action\Drama\Gran Torino.mkv
+6.75     681.954334    D:\Videos\Movies - Live Action\Fantasy\Low Fantasy\Groundhog Day.mkv
+6.75     786.009946    D:\Videos\Movies - Live Action\War\Full Metal Jacket.mkv
+6.78     1108.14886    D:\Videos\Movies - Live Action\Sci-Fi\Cyberpunk\Blade Runner 2049.mkv
+6.79     732.744044    D:\Videos\Movies - Live Action\Romance\Eternal Sunshine of the Spotless Mind.mkv
+6.82     786.107697    D:\Videos\Movies - Live Action\Adventure\Indiana Jones And The Raiders Of The Lost Ark.mkv
+6.88     942.122931    D:\Videos\Movies - Live Action\Mystery\Rosemarys Baby.mkv
+6.91     1029.817544    D:\Videos\Movies - Live Action\Mystery\Gone Girl.mkv
+6.92     681.045307    D:\Videos\Movies - Live Action\Horror\Slasher\The Texas Chainsaw Massacre.mkv
+6.98     918.073599    D:\Videos\Movies - Live Action\Theme\Superhero\X-Men Days of Future Past.mkv
+7.04     890.788972    D:\Videos\Movies - Live Action\Drama\Good Will Hunting.mkv
+7.04     844.721575    D:\Videos\Movies - Live Action\Mystery\The Sixth Sense.mkv
+7.05     942.428823    D:\Videos\Movies - Live Action\Adventure\Swashbuckler\Pirates of the Caribbean Curse of the Black Pearl.mkv
+7.09     1337.043788    D:\Videos\Movies - Live Action\Theme\Prison Film\The Green Mile.mkv
+7.13     1178.482642    D:\Videos\Movies - Live Action\Western\Revisionist Western\Django Unchained.mkv
+7.16     1027.114488    D:\Videos\Movies - Live Action\Theme\Dystopian\Brazil.mkv
+7.19     785.866877    D:\Videos\Movies - Live Action\Theme\Dystopian\Children of Men.mkv
+7.22     968.257534    D:\Videos\Movies - Live Action\Drama\Biopic\12 Years a Slave.mkv
+7.22     786.285933    D:\Videos\Movies - Live Action\Horror\Psychological Horror\Psycho.mkv
+7.23     733.013987    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Requiem For A Dream Directors Cut.mkv
+7.25     680.712567    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Trainspotting.mkv
+7.27     915.492816    D:\Videos\Movies - Live Action\Romance\Her.mkv
+7.35     741.31387    D:\Videos\Movies - Live Action\Crime\Drive.mkv
+7.35     836.893915    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Taxi Driver.mkv
+7.36     577.235571    D:\Videos\Movies - Animation\The Emperors New Groove.mkv
+7.36     889.024659    D:\Videos\Movies - Live Action\Comedy\Parody\Hot Fuzz.mkv
+7.45     1542.39884    D:\Videos\Movies - Live Action\Drama\Period Drama\Jidaigeki\Seven Samurai.mkv
+7.47     785.12915    D:\Videos\Movies - Live Action\Drama\Edward Scissorhands.mkv
+7.5     1071.6029    D:\Videos\Movies - Live Action\Theme\Superhero\The Avengers.mkv
+7.51     1473.390045    D:\Videos\Movies - Live Action\War\Apocalypse Now.mkv
+7.52     966.508154    D:\Videos\Movies - Live Action\Mystery\Vertigo.mkv
+7.53     853.497101    D:\Videos\Movies - Live Action\Fantasy\Low Fantasy\Being John Malkovich.mkv
+7.54     908.110102    D:\Videos\Movies - Live Action\Theme\Post-Apocalyptic\Mad Max Fury Road.mkv
+7.6     732.810638    D:\Videos\Movies - Live Action\Drama\Legal Drama\12 Angry Men.mkv
+7.6     907.016813    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Birdman.mkv
+7.6     941.691891    D:\Videos\Movies - Live Action\Horror\Natural Horror\Jaws.mkv
+7.63     965.295443    D:\Videos\Movies - Live Action\Drama\Biopic\Ed Wood.mkv
+7.63     974.670712    D:\Videos\Movies - Live Action\Music\La La Land.mkv
+7.67     1074.35685    D:\Videos\Movies - Live Action\Theme\Superhero\Star Wars Episode III - Revenge Of The Sith.mkv
+7.67     905.315303    D:\Videos\Movies - Live Action\Thriller\Nightcrawler.mkv
+7.69     800.203233    D:\Videos\Movies - Live Action\Horror\Psychological Horror\Get Out.mkv
+7.71     1058.827558    D:\Videos\Movies - Live Action\Action\Logan.mkv
+7.71     1072.678735    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Fight Club.mkv
+7.71     833.599278    D:\Videos\Movies - Live Action\Theme\Superhero\Deadpool.mkv
+7.74     693.287565    D:\Videos\Movies - Live Action\Comedy\Romantic Comedy\Annie Hall.mkv
+7.78     1152.559    D:\Videos\Movies - Live Action\Action\Inception.mkv
+7.83     853.102793    D:\Videos\Movies - Live Action\Comedy\Black Comedy\The King of Comedy.mkv
+7.83     845.816887    D:\Videos\Movies - Live Action\Sci-Fi\Ex Machina.mkv
+7.85     1227.628885    D:\Videos\Movies - Live Action\Western\Revisionist Western\The Revenant.mkv
+7.86     1081.400773    D:\Videos\Movies - Live Action\Drama\Period Drama\The Lives of Others.mkv
+7.91     849.41318    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Lock Stock and Two Smoking Barrels.mkv
+7.91     1451.020478    D:\Videos\Movies - Live Action\War\The Deer Hunter.mkv
+7.97     850.476342    D:\Videos\Movies - Live Action\Music\Whiplash.mkv
+8.04     843.927165    D:\Videos\Movies - Live Action\Film Noir\The Third Man.mkv
+8.06     733.028327    D:\Videos\Movies - Live Action\Horror\Slasher\Halloween.mkv
+8.12     936.30749    D:\Videos\Movies - Live Action\Drama\Three Billboards Outside Ebbing Missouri.mkv
+8.22     838.978924    D:\Videos\Movies - Live Action\Comedy\Black Comedy\American Psycho.mkv
+8.23     979.066116    D:\Videos\Movies - Live Action\Drama\American History X.mkv
+8.28     791.19917    D:\Videos\Movies - Animation\Persepolis.mkv
+8.36     1087.381778    D:\Videos\Movies - Anime\Koe No Katachi A.K.A A Silent Voice.mp4
+8.38     734.934076    D:\Videos\Movies - Animation\Pinocchio.mp4
+8.43     1528.313216    D:\Videos\Movies - Live Action\Theme\Superhero\Avengers Endgame.mkv
+8.47     216.519785    D:\Videos\Movies - Animation\How the Grinch Stole Christmas!.mp4
+8.51     957.316989    D:\Videos\Movies - Live Action\Mystery\Rear Window.mkv
+8.59     827.145472    D:\Videos\Movies - Live Action\Comedy\Romantic Comedy\Manhattan.mkv
+8.59     794.896634    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Wild Strawberries.mkv
+8.61     835.629763    D:\Videos\Movies - Live Action\Drama\Period Drama\The Seventh Seal.mkv
+8.63     1250.818603    D:\Videos\Movies - Live Action\Theme\Road Movie\Paris, Texas.mkv
+8.64     952.729234    D:\Videos\Movies - Live Action\Drama\Sunset Boulevard.mkv
+8.69     869.069655    D:\Videos\Movies - Live Action\Movement\French New Wave\The 400 Blows.mkv
+8.71     733.531107    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Evil Dead II.mkv
+8.71     933.295345    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Mirror.mkv
+8.76     901.590234    D:\Videos\Movies - Live Action\Romance\Chungking Express.mkv
+8.82     1010.623633    D:\Videos\Movies - Live Action\Theme\Vampire\Let The Right One In.mkv
+8.86     1378.788269    D:\Videos\Movies - Live Action\Drama\Boogie Nights.mkv
+8.86     874.782163    D:\Videos\Movies - Live Action\Romance\In the Mood for Love.mkv
+8.87     1058.813366    D:\Videos\Movies - Live Action\Fantasy\Fairy Tale\Pan's Labyrinth.mkv
+8.9     1015.091363    D:\Videos\Movies - Live Action\Thriller\Psychological Thriller\The Conversation.mkv
+8.92     807.677864    D:\Videos\Movies - Anime\Paprika.mp4
+8.94     1072.382304    D:\Videos\Movies - Live Action\Theme\Hood film\Do The Right Thing.mkv
+9.02     779.358958    D:\Videos\Movies - Anime\Millennium Actress - Sennen Joyuu.mp4
+9.07     917.325363    D:\Videos\Movies - Live Action\Romance\Before Sunrise.mkv
+9.09     1273.363921    D:\Videos\Movies - Anime\Violet Evergarden The Movie.mp4
+9.29     1085.911022    D:\Videos\Movies - Live Action\Comedy\Black Comedy\Barton Fink.mkv
+9.31     837.550246    D:\Videos\Movies - Anime\Kono Subarashii Sekai Ni Shukufuku Wo! Kurenai Densetsu.mp4
+9.32     838.96329    D:\Videos\Movies - Animation\The Iron Giant.mkv
+9.32     1228.396832    D:\Videos\Movies - Live Action\Drama\Parasite.mkv
+9.32     1017.422765    D:\Videos\Movies - Live Action\Thriller\Psychological Thriller\The Lighthouse.mkv
+9.34     1138.235605    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Joker.mkv
+9.58     1281.006303    D:\Videos\Movies - Live Action\Drama\One Flew Over The Cuckoos Nest.mkv
+9.59     1556.379257    D:\Videos\Movies - Live Action\Drama\Period Drama\Jidaigeki\Ran.mkv
+9.6     1250.621347    D:\Videos\Movies - Live Action\Action\Top Gun Maverick.mkv
+9.6     1430.479317    D:\Videos\Movies - Live Action\Adventure\Space Opera\Dune.mkv
+9.6     1361.017186    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Prisoner Of Azkaban.mkv
+9.6     1674.960778    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Chamber Of Secrets.mkv
+9.6     1525.493938    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Philosopher's Stone.mkv
+9.6     1375.909553    D:\Videos\Movies - Live Action\War\Come and See.mkv
+9.61     1403.31763    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Deathly Hallows Part 1.mkv
+9.61     1252.923322    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Deathly Hallows Part 2.mkv
+9.61     1474.499683    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Half-Blood Prince.mkv
+9.61     1327.654853    D:\Videos\Movies - Live Action\Fantasy\Harry Potter And The Order Of The Phoenix.mkv
+9.61     1423.330046    D:\Videos\Movies - Live Action\Theme\Superhero\Spider-Man No Way Home.mkv
+9.61     1260.116266    D:\Videos\Movies - Live Action\Thriller\Memories of Murder.mkv
+9.99     1319.343602    D:\Videos\Movies - Live Action\Action\Die Hard.mkv
+10.02     819.210682    D:\Videos\Movies - Anime\Perfect Blue.mp4
+10.24     1137.939422    D:\Videos\Movies - Anime\Whisper Of The Heart.mp4
+10.59     1086.767483    D:\Videos\Movies - Anime\Sword Of The Stranger.mp4
+10.89     1625.758665    D:\Videos\Movies - Live Action\Theme\Superhero\Avengers Infinity War.mkv
+10.9     965.750838    D:\Videos\Movies - Anime\Grave Of The Fireflies.mp4
+11.25     1006.790665    D:\Videos\Movies - Live Action\Movement\Italian Neorealism\Bicycle Thieves.mkv
+11.7     1142.659419    D:\Videos\Movies - Live Action\Theme\Hood film\La Haine.mkv
+11.86     1068.042241    D:\Videos\Movies - Animation\Shrek.mp4
+11.88     1265.263361    D:\Videos\Movies - Anime\No Game No Life Zero.mp4
+11.94     2330.555956    D:\Videos\Movies - Live Action\Drama\Biopic\Schindlers List.mkv
+12.11     1046.221214    D:\Videos\Movies - Anime\My Neighbor Totoro.mp4
+12.14     1402.99661    D:\Videos\Movies - Anime\Cowboy Bebop - Knockin' On Heaven's Door.mp4
+12.7     1732.774033    D:\Videos\Movies - Live Action\Thriller\North By Northwest.mkv
+12.9     1065.718391    D:\Videos\Movies - Anime\Ghost In The Shell.mp4
+13.16     1722.503543    D:\Videos\Movies - Live Action\Drama\Its a Wonderful Life.mkv
+13.17     1293.552945    D:\Videos\Movies - Animation\WALL-E.mp4
+13.21     1762.259969    D:\Videos\Movies - Anime\Princess Mononoke.mp4
+13.26     1651.501978    D:\Videos\Movies - Anime\Spirited Away.mp4
+13.31     1657.979149    D:\Videos\Movies - Anime\Castle In The Sky.mp4
+13.38     1774.104067    D:\Videos\Movies - Live Action\Theme\Dystopian\V for Vendetta.mkv
+13.63     1506.644613    D:\Videos\Movies - Animation\Ratatouille.mp4
+13.71     1734.237617    D:\Videos\Movies - Anime\The Wind Rises.mp4
+13.85     1456.57407    D:\Videos\Movies - Anime\Kiki's Delivery Service.mp4
+13.99     1666.749075    D:\Videos\Movies - Anime\Howl's Moving Castle~Howl No Ugoku Shiro.mp4
+14.33     1825.492459    D:\Videos\Movies - Live Action\Adventure\Space Opera\Star Wars Episode 5 The Empire Strikes Back.mkv
+14.34     1932.893192    D:\Videos\Movies - Live Action\Adventure\Space Opera\Star Wars Episode 6 Return of the Jedi.mkv
+14.36     2199.092656    D:\Videos\Movies - Live Action\Thriller\Prisoners.mkv
+14.38     2258.361527    D:\Videos\Movies - Live Action\Fantasy\Harry Potter and the Goblet of Fire.mkv
+14.55     1179.053002    D:\Videos\Movies - Animation\Toy Story.mkv
+14.63     1500.785177    D:\Videos\Movies - Animation\Toy Story 3.mp4
+14.63     1825.306711    D:\Videos\Movies - Live Action\Adventure\Space Opera\Star Wars Episode 4 A New Hope.mkv
+14.76     1733.668616    D:\Videos\Movies - Anime\Kaze No Tani No Nausicaa.mp4
+14.83     1845.855678    D:\Videos\Movies - Anime\Akira.mp4
+14.86     1499.36791    D:\Videos\Movies - Animation\Finding Nemo.mp4
+14.88     1506.490897    D:\Videos\Movies - Animation\Wreck-It Ralph.mp4
+15.03     1328.716257    D:\Videos\Movies - Animation\The Lion King.mp4
+15.08     1393.759901    D:\Videos\Movies - Animation\Toy Story 2.mp4
+15.34     1500.966863    D:\Videos\Movies - Animation\How to Train Your Dragon.mp4
+15.41     1545.647447    D:\Videos\Movies - Animation\Tangled.mp4
+15.68     1828.49426    D:\Videos\Movies - Live Action\Sci-Fi\Alien Directors Cut.mkv
+15.83     1390.562759    D:\Videos\Movies - Animation\Mulan.mp4
+16.03     1540.666427    D:\Videos\Movies - Animation\Up.mp4
+16.08     1617.354923    D:\Videos\Movies - Animation\Coraline.mp4
+16.12     2133.969068    D:\Videos\Movies - Live Action\Horror\Supernatural Horror\The Exorcist.mkv
+16.27     1462.097158    D:\Videos\Movies - Animation\Cloudy With A Chance Of Meatballs.mp4
+16.35     1546.943392    D:\Videos\Movies - Animation\Inside Out.mp4
+16.36     1549.051178    D:\Videos\Movies - Animation\Despicable Me.mp4
+16.38     1756.255674    D:\Videos\Movies - Animation\Moana.mp4
+16.41     2091.656001    D:\Videos\Movies - Live Action\Theme\Superhero\Spider Man 2.mkv
+16.44     1987.239253    D:\Videos\Movies - Live Action\Adventure\Space Opera\Guardians of the Galaxy.mkv
+16.52     1552.845504    D:\Videos\Movies - Animation\Song of the Sea.mp4
+16.82     1649.000477    D:\Videos\Movies - Animation\Klaus.mp4
+16.85     1546.175374    D:\Videos\Movies - Animation\Beauty and the Beast.mp4
+16.87     1556.799074    D:\Videos\Movies - Animation\Monsters Inc.mp4
+17.02     2202.717462    D:\Videos\Movies - Live Action\Crime\City Of God.mkv
+17.34     1504.198067    D:\Videos\Movies - Animation\Fantastic Mr. Fox.mp4
+17.41     1365.866128    D:\Videos\Movies - Animation\The Jungle Book.mp4
+17.85     1859.972776    D:\Videos\Movies - Animation\Zootopia.mkv
+18.24     1916.082351    D:\Videos\Movies - Animation\Coco.mkv
+18.73     2074.365145    D:\Videos\Movies - Live Action\Drama\The Hunt.mkv
+19.04     1754.948004    D:\Videos\Movies - Animation\Kung Fu Panda.mp4
+19.77     2023.634965    D:\Videos\Movies - Animation\Puss In Boots The Last Wish.mkv
+20.06     2315.288536    D:\Videos\Movies - Animation\The Incredibles.mkv
+20.16     1669.357041    D:\Videos\Movies - Animation\The Little Mermaid.mp4
+20.29     1684.795294    D:\Videos\Movies - Animation\Robin Hood.mp4
+20.44     1718.759356    D:\Videos\Movies - Live Action\Drama\Psychological Drama\Persona.mkv
+20.44     2452.90291    D:\Videos\Movies - Live Action\Mystery\Oldboy.mkv
+20.45     2102.175239    D:\Videos\Movies - Live Action\Music\Singin in the Rain.mkv
+20.69     2417.025759    D:\Videos\Movies - Animation\Spider-Man Into the Spider-Verse.mkv
+20.69     2416.419211    D:\Videos\Movies - Anime\Kimetsu no Yaiba Mugen Ressha Hen.mkv
+20.86     2131.052757    D:\Videos\Movies - Anime\Redline.mp4
+20.92     1822.298952    D:\Videos\Movies - Anime\Neon Genesis Evangelion - The End Of Evangelion.mp4
+22.38     1715.990167    D:\Videos\Movies - Animation\The Nightmare Before Christmas.mkv
+22.58     1968.939013    D:\Videos\Movies - Animation\The SpongeBob SquarePants Movie.mkv
+25.01     2267.480736    D:\Videos\Movies - Animation\Aladdin.mkv
